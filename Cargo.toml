@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "float_analysis"
+]
+
+resolver = "3"
