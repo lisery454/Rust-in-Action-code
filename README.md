@@ -5,4 +5,6 @@
 ```shell
 # 解析浮点数的内部结构
 cargo run -p float_analysis -q
+# 模拟一个简单的cpu进行运算
+cargo run -p mock_cpu -q
 ```

@@ -1,6 +1,4 @@
 [workspace]
-members = [
-    "float_analysis"
-]
+members = ["float_analysis", "mock_cpu"]
 
 resolver = "3"

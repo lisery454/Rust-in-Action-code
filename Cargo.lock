@@ -5,3 +5,7 @@ version = 4
 [[package]]
 name = "float_analysis"
 version = "0.1.0"
+
+[[package]]
+name = "mock_cpu"
+version = "0.1.0"
